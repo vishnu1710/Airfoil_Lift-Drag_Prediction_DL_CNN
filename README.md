@@ -22,9 +22,9 @@ The data has been taken from the work of Zi Li [@Zili](https://github.com/ziliHa
 
 ## _Result_
  <p align="left">
- <img src="https://github.com/vishnu1710/Airfoil_Lift-Drag_Prediction_DL_CNN/raw/main/img/error.png" width="50%" height="50%">
- <img src="https://github.com/vishnu1710/Airfoil_Lift-Drag_Prediction_DL_CNN/raw/main/img/error_2.png" width="50%" height="50%">
- <img src="https://github.com/vishnu1710/Airfoil_Lift-Drag_Prediction_DL_CNN/raw/main/img/prediction.png" width="50%" height="50%">
+ <img src="https://github.com/vishnu1710/Airfoil_Lift-Drag_Prediction_DL_CNN/raw/main/img/error.png" width="70%" height="50%">
+ <img src="https://github.com/vishnu1710/Airfoil_Lift-Drag_Prediction_DL_CNN/raw/main/img/error_2.png" width="70%" height="50%">
+ <img src="https://github.com/vishnu1710/Airfoil_Lift-Drag_Prediction_DL_CNN/raw/main/img/prediction.png" width="70%" height="50%">
  </p>
 
 ## _Licence_  
