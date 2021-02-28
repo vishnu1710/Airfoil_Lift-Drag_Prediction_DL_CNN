@@ -18,8 +18,6 @@ The data has been taken from the work of Zi Li [@Zili](https://github.com/ziliHa
 &emsp;Please unzip raw data and modify directory and then run `cnn-airfoil.ipynb` it.   
 
 
- <img src="https://github.com/ziliHarvey/CNN--based-aerodynamics-parameters-prediction-method/raw/master/cnn.png">
-
 ## _Result_
  <p align="left">
  <img src="https://github.com/vishnu1710/Airfoil_Lift-Drag_Prediction_DL_CNN/raw/main/img/error.png" width="70%" height="50%">
