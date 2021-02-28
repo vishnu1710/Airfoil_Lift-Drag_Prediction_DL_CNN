@@ -15,7 +15,7 @@ The data has been taken from the work of Zi Li [@Zili](https://github.com/ziliHa
 &emsp;a file of all samples' lift-to-drag ratio calculated by Xflr5
 **/data/parsed_data/1_300.mat**  
 &emsp;the above raw data is parsed into .mat file for loading  
-&emsp;Please unzip raw data and modify directory and then run it.   
+&emsp;Please unzip raw data and modify directory and then run `cnn-airfoil.ipynb` it.   
 
 
  <img src="https://github.com/ziliHarvey/CNN--based-aerodynamics-parameters-prediction-method/raw/master/cnn.png">
