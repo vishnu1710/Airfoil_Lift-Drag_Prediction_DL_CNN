@@ -3,7 +3,7 @@ CNN for airfoil lift-to-drag-ratio prediction
 
 This repository contains data, code, and results for implementing an airfoil lift-to-drag ratio prediction method based on Convolutional Neural Network. The network model can take into cnn model `the airfoil contour` and predict its `areodynamics parameters` such as lift-to-drag ratio.  
 ## Model Architecture:_   
-The data has been taken from the work of Zi Li[@Zili] (https://github.com/ziliHarvey/CNN-for-Airfoil) and I modified the CNN using Keras and Tensorflow. 
+The data has been taken from the work of Zi Li [@Zili](https://github.com/ziliHarvey/CNN-for-Airfoil) and I modified the CNN using Keras and Tensorflow. 
 
 **Model building:**   This CNN models runs 5000 times faster than commercial CFD software with relative low error (i.e Test MSE 0.002 after 50 epoch's training)
 
@@ -22,9 +22,9 @@ The data has been taken from the work of Zi Li[@Zili] (https://github.com/ziliHa
 
 ## _Result_
  <p align="left">
- <img src="https://github.com/vishnu1710/Airfoil_Lift-Drag_Prediction_DL_CNN/tree/main/img/error.png" width="50%" height="50%">
- <img src="https://github.com/vishnu1710/Airfoil_Lift-Drag_Prediction_DL_CNN/tree/main/img/error_2.png" width="50%" height="50%">
- <img src="https://github.com/vishnu1710/Airfoil_Lift-Drag_Prediction_DL_CNN/tree/main/img/download.png" width="50%" height="50%">
+ <img src="https://github.com/vishnu1710/Airfoil_Lift-Drag_Prediction_DL_CNN/raw/main/img/error.png" width="50%" height="50%">
+ <img src="https://github.com/vishnu1710/Airfoil_Lift-Drag_Prediction_DL_CNN/raw/main/img/error_2.png" width="50%" height="50%">
+ <img src="https://github.com/vishnu1710/Airfoil_Lift-Drag_Prediction_DL_CNN/raw/main/img/prediction.png" width="50%" height="50%">
  </p>
 
 ## _Licence_  
